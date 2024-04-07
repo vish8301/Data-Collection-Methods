@@ -5,7 +5,7 @@ This repository contains two Jupyter Notebooks designed for collecting Yelp data
 **NOTE:** I have removed the API Key from the notebook. You can get a Yelp API for free on the [Yelp Developer Website](https://docs.developer.yelp.com/).
 ## Notebooks Overview
 **1. `Yelp_API.ipynb`**
-This notebook demonstrates how to use the Yelp Fusion API to collect data about businesses listed on Yelp. It covers a simple framework for setting up your API key to make requests for specific data points such as business names, locations, reviews, and ratings.
+This notebook demonstrates how to use the Yelp Fusion API to collect data about businesses listed on Yelp. It covers a simple framework for setting up your API key to make requests for specific data points such as business names, locations, reviews, etc.
 
 **Features:**
 - Setting up Yelp API credentials
