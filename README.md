@@ -3,7 +3,7 @@
 This repository contains two Jupyter Notebooks designed for collecting Yelp data using two different methods: Yelp API and Web Scraping. Whether you are interested in analyzing Yelp business reviews, understanding customer sentiments, or exploring dining options in a specific area, these notebooks provide a detailed step-by-step guide to gathering the data you need.
 
 ## Notebooks Overview
-**1. Yelp_API.ipynb**
+**1. `Yelp_API.ipynb`**
 This notebook demonstrates how to use the Yelp Fusion API to collect data about businesses listed on Yelp. It covers the entire process from setting up your API key to making requests for specific data points such as business names, locations, reviews, and ratings.
 
 **Features:**
@@ -16,7 +16,7 @@ This notebook demonstrates how to use the Yelp Fusion API to collect data about 
 - Yelp API Key
 - Python packages: requests, json, pandas
 
-**2. Yelp_Web_Scraping.ipynb**
+**2. `Yelp_Web_Scraping.ipynb`**
 This notebook offers a guide on how to scrape Yelp data directly from the website. It's particularly useful for data points that are not available through the API or for users who prefer not to use the API.
 
 **Features:**
